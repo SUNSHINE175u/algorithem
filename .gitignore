@@ -1,0 +1,23 @@
+# 编译生成的可执行文件
+*.exe
+*.out
+*.app
+
+# 目标文件
+*.o
+*.obj
+
+# 调试文件
+*.pdb
+*.ilk
+*.dSYM/
+
+# VS Code 配置
+.vscode/
+
+# 课程报告文档
+24201422黄宇翔-算法分析与设计二.docx
+
+# 操作系统文件
+Thumbs.db
+.DS_Store
